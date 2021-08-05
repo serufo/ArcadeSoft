@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 112 112">
+  <g filter="url(#OrjQO6Q0iEa)">
+    <circle cx="55.676" cy="55.676" r="55.676" fill="url(#OrjQO6Q0iEb)" fill-opacity=".6"/>
+    <circle cx="55.676" cy="55.676" r="54.676" stroke="url(#OrjQO6Q0iEc)" stroke-opacity=".65" stroke-width="2"/>
+  </g>
+  <defs>
+    <linearGradient id="OrjQO6Q0iEb" x1="0" y1="0" x2="132.791" y2="67.045" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="OrjQO6Q0iEc" x1=".864" y1=".889" x2="132.692" y2="67.579" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="OrjQO6Q0iEa" x="-25" y="-25" width="161.351" height="161.351" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feGaussianBlur in="BackgroundImage" stdDeviation="12.5"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+      <feBlend in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+    </filter>
+  </defs>
+</svg>
