@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 210 55">
+  <g filter="url(#UtTR73LzLLa)">
+    <path d="M0 0h210v55H0V0z" fill="url(#UtTR73LzLLb)"/>
+    <path d="M1 1h208v53H1V1z" stroke="url(#UtTR73LzLLc)" stroke-width="2"/>
+  </g>
+  <defs>
+    <linearGradient id="UtTR73LzLLb" x1="-5.35" y1="0" x2="96.164" y2="151.035" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".53"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="UtTR73LzLLc" x1="-14.757" y1="-13" x2="237.157" y2="39.34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".59"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="UtTR73LzLLa" x="-20" y="-20" width="250" height="95" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feGaussianBlur in="BackgroundImage" stdDeviation="10"/>
+      <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
+      <feBlend in="SourceGraphic" in2="effect1_backgroundBlur" result="shape"/>
+    </filter>
+  </defs>
+</svg>
